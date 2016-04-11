@@ -1,2 +1,3 @@
 # hello-world
-sample repository
+
+just a student trying to finish my dissertation.
